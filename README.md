@@ -1,20 +1,18 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQF0VzDSqrHH-g/profile-displaybackgroundimage-shrink_350_1400/B4EZm.UvFjKsAY-/0/1759834732515?e=1762992000&v=beta&t=yEhboYPzHG4WTDkpUeJEsFfsNOcyfz3UWnNFrF0wErI)
-## Hi there 👋
+## Hi there 👋, my name is ABU SAYED
+#### Web Developer
 
-<!--
 **abusayedtalukder0402/abusayedtalukder0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Frontend Web Developer 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Developer 
+- 📫 How to reach me: linkedin 
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/mdrifat0402) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-abu-sayed-486ab2367/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/abusaeedxl/_profile/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@rifat_9208) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@code_bangla_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abusayedtalukder001@gmail.com) 
